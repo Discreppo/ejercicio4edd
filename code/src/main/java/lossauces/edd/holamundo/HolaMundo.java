@@ -9,10 +9,8 @@ package lossauces.edd.holamundo;
  *
  * @author myName
  */
-public class HolaMundo
-{
-    public static void main(String[] args)
-    {
-        
+public class HolaMundo{
+    public static void main(String[] args){
+        System.out.println("Hola Mundo!");
     }
 }
